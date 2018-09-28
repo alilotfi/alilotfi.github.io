@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<browserconfig>
+    <msapplication>
+        <tile>
+            <square150x150logo src="/static/alilo/mstile-150x150.png"/>
+            <TileColor>#afb2b7</TileColor>
+        </tile>
+    </msapplication>
+</browserconfig>

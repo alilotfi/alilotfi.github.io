@@ -326,7 +326,7 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .android {
-    width: 80%;
+    width: 85%;
     -moz-animation: android 2s ease;
     -webkit-animation: android 2s ease;
 }
@@ -341,12 +341,12 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: java 2s ease;
 }
 .python {
-  	width: 60%;
+  	width: 65%;
   	-moz-animation: python 2s ease;
   	-webkit-animation: python 2s ease;
 }
 .django {
-  	width: 70%;
+  	width: 80%;
   	-moz-animation: django 2s ease;
   	-webkit-animation: django 2s ease;
 }

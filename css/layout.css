@@ -193,6 +193,10 @@ ul#nav li.current a { color: #F06000; }
    overflow: hidden;
 }
 
+#about .description span {
+   color: #fff;
+}
+
 #about a, #about a:visited  { color: #fff; }
 #about a:hover, #about a:focus { color: #11ABB0; }
 
@@ -325,6 +329,26 @@ ul#nav li.current a { color: #F06000; }
    border-radius: 3px 0 0 3px;
 }
 
+.python {
+  	width: 75%;
+  	-moz-animation: python 2s ease;
+  	-webkit-animation: python 2s ease;
+}
+.django {
+  	width: 85%;
+  	-moz-animation: django 2s ease;
+  	-webkit-animation: django 2s ease;
+}
+.git {
+  	width: 85%;
+  	-moz-animation: git 2s ease;
+  	-webkit-animation: git 2s ease;
+}
+.kubernetes {
+  	width: 45%;
+  	-moz-animation: git 2s ease;
+  	-webkit-animation: git 2s ease;
+}
 .android {
     width: 85%;
     -moz-animation: android 2s ease;
@@ -339,21 +363,6 @@ ul#nav li.current a { color: #F06000; }
   	width: 70%;
   	-moz-animation: java 2s ease;
   	-webkit-animation: java 2s ease;
-}
-.python {
-  	width: 65%;
-  	-moz-animation: python 2s ease;
-  	-webkit-animation: python 2s ease;
-}
-.django {
-  	width: 80%;
-  	-moz-animation: django 2s ease;
-  	-webkit-animation: django 2s ease;
-}
-.git {
-  	width: 85%;
-  	-moz-animation: git 2s ease;
-  	-webkit-animation: git 2s ease;
 }
 
 @-moz-keyframes java {

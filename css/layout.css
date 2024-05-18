@@ -349,20 +349,15 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: git 2s ease;
   	-webkit-animation: git 2s ease;
 }
-.android {
-    width: 85%;
-    -moz-animation: android 2s ease;
-    -webkit-animation: android 2s ease;
-}
-.kotlin {
-    width: 90%;
+.fastapi {
+    width: 40%;
     -moz-animation: c 2s ease;
     -webkit-animation: c 2s ease;
 }
-.java {
-  	width: 70%;
-  	-moz-animation: java 2s ease;
-  	-webkit-animation: java 2s ease;
+.android {
+    width: 75%;
+    -moz-animation: android 2s ease;
+    -webkit-animation: android 2s ease;
 }
 
 @-moz-keyframes java {
